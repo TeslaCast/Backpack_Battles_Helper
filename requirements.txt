@@ -1,0 +1,7 @@
+opencv-python 
+mss 
+numpy 
+pillow
+httpx[http2]
+requests
+bs4
